@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+c2e7e7efc109c278b5b65770c905d5e9 CMakeFiles/sticky-notes_autogen
+c2e7e7efc109c278b5b65770c905d5e9 CMakeFiles/sticky-notes_autogen_timestamp_deps
+3d260401a6f5c4e99e731310965efb7e sticky-notes_autogen/timestamp
