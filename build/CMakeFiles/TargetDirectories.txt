@@ -1,5 +1,0 @@
-/workspaces/-float-sticky-notes-C-/build/CMakeFiles/sticky-notes.dir
-/workspaces/-float-sticky-notes-C-/build/CMakeFiles/edit_cache.dir
-/workspaces/-float-sticky-notes-C-/build/CMakeFiles/rebuild_cache.dir
-/workspaces/-float-sticky-notes-C-/build/CMakeFiles/sticky-notes_autogen_timestamp_deps.dir
-/workspaces/-float-sticky-notes-C-/build/CMakeFiles/sticky-notes_autogen.dir
